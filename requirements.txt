@@ -1,0 +1,8 @@
+flask
+playwright
+beautifulsoup4
+openpyxl
+requests
+Pillow
+dropbox
+DrissionPage
